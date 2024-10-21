@@ -1,1 +1,1 @@
-Analyza textu, projekt číslo 1.
+Analyza textu pro projekt ENGETO - python.
