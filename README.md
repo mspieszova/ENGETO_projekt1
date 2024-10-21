@@ -1,1 +1,1 @@
-Analyza textu, projekt číslo 1, změna adresáře na pycharm
+Analyza textu, projekt číslo 1, změna adresáře na pycharm. Zkouška.
