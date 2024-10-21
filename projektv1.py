@@ -5,6 +5,8 @@ author: Martina Spieszová
 email: mspieszova@gmail.com
 discord: MartinaSpi
 """
+#texty pro spracování
+
 TEXTS = ['''
 Situated about 10 miles west of Kemmerer,
 Fossil Butte is a ruggedly impressive
